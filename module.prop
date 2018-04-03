@@ -1,0 +1,7 @@
+id=whatsappemojifont
+name=WhatsApp Emojis
+version=v1
+versionCode=1
+author=kolinsky_mrtn
+description=Systemlessly replaces your Emojis with the new WhatsApp Emojis
+minMagisk=1500
